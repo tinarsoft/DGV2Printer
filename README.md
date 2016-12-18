@@ -11,7 +11,7 @@ This Library Get Your DataGridView  Customization(like Font,Colors,...) and Appl
 
 This Work Properly in WinForm Applications... 
 
-There are 4 simple step for use this library:
+#### There are 4 simple step for use this library:
 
 - Add reference to your project
 - Make Object from Reference
@@ -21,5 +21,7 @@ There are 4 simple step for use this library:
 (please watch this sample in youtube => http://youtu.be/MHbRxkTw3Qs )
 
 for build run "build.cmd" then DGV2Printer.DLL builded for .nt 2,3.5,4,4.5 in "build\AnyCpu\" Fodler
+
+### Download This Library Release in : https://github.com/tinarsoft/DGV2Printer/releases 
 
 Enjoy.
