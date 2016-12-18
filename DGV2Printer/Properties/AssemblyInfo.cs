@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DGV2Printer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Print DataGridView As Report")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("TinarSoft")]
 [assembly: AssemblyProduct("DGV2Printer")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
